@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="Qual_Planeta">Digite o nome de um Planeta</string>
+    <string name="Search"> Procurar o Planeta</string>
+    <string name="loading">Carregando…</string>
+    <string name="Planeta">Informações do Planeta Escolhido</string>
+
+    <string name="no_results">"Nenhum resultado encontrado"</string>
+
+    <string name="no_search_term">Informe um termo de busca</string>
+
+    <string name="no_network">verifique sua conexão.</string>
+    <string name="saibamais">Quer saber curiosidades de Star Wars?</string>
+    <string name="str_empty">" "</string>
+</resources>
